@@ -1,0 +1,9 @@
+{
+  "name": "file-management-server",
+  "version": "1.0.0",
+  "description": "A File Management System for Barangay 2 (Pob.) Calamba City",
+  "main": "server.js",
+  "repository": "https://github.com/Jm-Paunlagui/FileManagement.git",
+  "author": "Jm-Paunlagui <jmpaunlagui01@gmail.com>",
+  "license": "MIT"
+}
